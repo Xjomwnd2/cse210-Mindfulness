@@ -1,0 +1,15 @@
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\bin\Debug\net8.0\Mindfulness.exe
+C:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\bin\Debug\net8.0\Mindfulness.deps.json
+C:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\bin\Debug\net8.0\Mindfulness.runtimeconfig.json
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\bin\Debug\net8.0\Mindfulness.dll
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\bin\Debug\net8.0\Mindfulness.pdb
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfoInputs.cache
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfo.cs
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\Mindfulness.csproj.CoreCompileInputs.cache
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\Mindfulness.sourcelink.json
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\Mindfulness.dll
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\refint\Mindfulness.dll
+c:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\Mindfulness.pdb
+C:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\Mindfulness.genruntimeconfig.cache
+C:\Users\Joel Ndiba Mwaura\GitHub\wk5\cse210-Mindfulness\obj\Debug\net8.0\ref\Mindfulness.dll
